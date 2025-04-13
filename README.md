@@ -16,6 +16,9 @@
 ( 0x0 
 C(__O_O
 ```
+![](https://img.shields.io/date/1732666800?style=plastic&label=HRT&labelColor=%23f06eff&color=%235c5c5c)
+![](https://komarev.com/ghpvc/?username=databasedgirl)
+
 Hii oomfie ^x^
 </div>
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Databasedgirl">
@@ -26,6 +29,8 @@ Hii! I'm Databased, the coolest internet bunny ever.
 I'm a cybersecurity enthusiast, computer science student and artist in my free time, also proud owner of a blog :3 
 
 Currently learning rust.
+
+
 ### Contact & Projects
 - Email: databased@disroot.org
 - Discord: @databasedbun
@@ -56,4 +61,4 @@ u5g6PCGu
 -----END PGP SIGNATURE-----
 
 ```
-![](https://komarev.com/ghpvc/?username=databasedgirl)
+
