@@ -17,7 +17,7 @@ Hii! I'm Databased, the coolest internet bunny ever.
 
 I'm a cybersecurity enthusiast, computer science student and artist in my free time, also proud owner of a blog
 
-Currently learning rust.
+Currently studying C, Assembly and Rust
 
 
 ### Contact & Projects
