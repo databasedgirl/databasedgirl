@@ -8,7 +8,7 @@ C(__O_O
 ![](https://img.shields.io/date/1732666800?style=plastic&label=HRT&labelColor=%23f06eff&color=%235c5c5c)
 ![](https://komarev.com/ghpvc/?username=databasedgirl)
 
-Hii oomfie ^x^
+Hey there beautiful ;)
 </div>
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Databasedgirl">
 
