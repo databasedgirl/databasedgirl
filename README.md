@@ -1,17 +1,6 @@
 <div align="center">
 
 ```
-# oooooooooo.                                                     ooooo ooooo      ooo   .oooooo.  
-# `888'   `Y8b                                                    `888' `888b.     `8'  d8P'  `Y8b 
-#  888     888 oooo  oooo  ooo. .oo.   ooo. .oo.   oooo    ooo     888   8 `88b.    8  888         
-#  888oooo888' `888  `888  `888P"Y88b  `888P"Y88b   `88.  .8'      888   8   `88b.  8  888         
-#  888    `88b  888   888   888   888   888   888    `88..8'       888   8     `88b.8  888         
-#  888    .88P  888   888   888   888   888   888     `888'        888   8       `888  `88b    ooo 
-# o888bood8P'   `V88V"V8P' o888o o888o o888o o888o     .8'        o888o o8o        `8   `Y8bood8P' 
-                                                   .o..P'                                          
-      `Y8P'
-
-
 (\_\) 
 ( 0x0 
 C(__O_O
